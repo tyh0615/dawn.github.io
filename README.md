@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[Dawn Blog](https://huangxuan.me)
 ================================
 
 > I never expected this to become popular.
@@ -43,21 +43,21 @@ Other Resources
 ---------------
 
 Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
+- [**Hexo**](https://github.com/Kaijun/hexo-theme-Dawnblog) by @kaijun
+- [**React-SSR**](https://github.com/LucasIcarus/Dawnpro.github.io/tree/ssr) by @LucasIcarus
 
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
+[Starter/Boilerplate](https://github.com/Dawnpro/Dawnblog-boilerplate)
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+- [🇨🇳  中文文档（有点过时）](https://github.com/Dawnpro/Dawnpro.github.io/blob/master/_doc/README.zh.md)
 
 
 License
 -------
 
 Apache License 2.0.
-Copyright (c) 2015-present Huxpro
+Copyright (c) 2015-present Dawnpro
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+Dawn Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
